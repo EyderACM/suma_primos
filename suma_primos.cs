@@ -27,5 +27,13 @@ namespace SoloLearn
         sum = sum  + 1;
         Console.WriteLine(sum);
       }
-   }
+   }   
 }
+
+/* 
+QA: Eyder A. Concha Moreno
+Entradas: OK
+Salidas: OK
+
+Extra: Corregir nombrado de variables, documentación (comentarios) explicando el algoritmo
+*/
