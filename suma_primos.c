@@ -23,7 +23,11 @@ int main()
         return 0;
     }
 
+/*
+QA: Eyder A. Concha Moreno
+Entradas: OK
+Salidas: OK
 
-
-
-
+Extra: Las variables no siguen el estándar definido para la codificación (el nombrado de variables debería representar
+lo que es cada una)
+*/
